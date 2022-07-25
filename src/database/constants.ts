@@ -1,0 +1,3 @@
+export const DATABASE_CONNECTION = 'DATABASE_CONNECTION';
+export const PRICE_CAR = 1000;
+export const LIMIT_BOOK_DAYS = 30;
